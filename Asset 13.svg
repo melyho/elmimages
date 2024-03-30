@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 30.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8da6ff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #43439e;
+        font-family: Kollektif, Kollektif;
+        font-size: 7.28px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #678bef;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-1" y="7" width="14" height="23.33"/>
+      <polygon class="cls-3" points="14 7 0 7 2.33 2.33 11.67 2.33 14 7"/>
+      <rect class="cls-1" x="2.33" width="9.33" height="2.33"/>
+      <rect class="cls-2" y="12.83" width="14" height="8.17"/>
+      <text class="cls-4" transform="translate(.8 19.3)"><tspan x="0" y="0">milk</tspan></text>
+    </g>
+  </g>
+</svg>

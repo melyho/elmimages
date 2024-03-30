@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.32 11.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffcaa6;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ff7171;
+      }
+
+      .cls-4 {
+        fill: #2d2d2d;
+        font-family: Kollektif, Kollektif;
+        font-size: 3.67px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <path class="cls-1" d="M2.57,8.74C1.32,3.79,6.03.33,13.47.52c3.81.09,7.28,5.09,6.75,7.75-.65,3.27-5.61,2.21-9.24,2.19s-7.62,1.36-8.4-1.72Z"/>
+      <rect class="cls-3" x=".87" y="0" width="20.58" height="11.31" rx="1.81" ry="1.81"/>
+      <text class="cls-4" transform="translate(6 7.94) scale(1.02 1)"><tspan x="0" y="0">dough</tspan></text>
+      <rect class="cls-2" y="0" width="22.32" height="2.82" rx=".72" ry=".72"/>
+    </g>
+  </g>
+</svg>
