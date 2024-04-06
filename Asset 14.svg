@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 32.7 19.1">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-2, .cls-6, .cls-7, .cls-8, .cls-9, .cls-4, .cls-10, .cls-11, .cls-5, .cls-12, .cls-13 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        opacity: .5;
+      }
+
+      .cls-1, .cls-13 {
+        fill: #f7c4c4;
+      }
+
+      .cls-2, .cls-10 {
+        fill: #e29191;
+      }
+
+      .cls-6 {
+        fill: #c14242;
+      }
+
+      .cls-7, .cls-5 {
+        fill: #9b3434;
+      }
+
+      .cls-8 {
+        fill: #3d6345;
+      }
+
+      .cls-9 {
+        fill: #dadde5;
+      }
+
+      .cls-4, .cls-12 {
+        fill: #f26b6b;
+      }
+
+      .cls-11 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-9" width="32.7" height="19.1" rx="3.6" ry="3.6"/>
+  <rect class="cls-11" x=".9" y="1.2" width="30.6" height="16.7" rx="2.9" ry="2.9"/>
+  <g>
+    <circle class="cls-6" cx="11" cy="5" r="3.3"/>
+    <circle class="cls-2" cx="12" cy="3.2" r=".5"/>
+    <circle class="cls-4" cx="12.3" cy="6.3" r=".6"/>
+    <circle class="cls-2" cx="12.6" cy="4.9" r=".2"/>
+    <circle class="cls-1" cx="9.9" cy="3.2" r=".8"/>
+    <circle class="cls-5" cx="10.3" cy="6" r=".2"/>
+    <circle class="cls-5" cx="9" cy="5.4" r=".5"/>
+    <circle class="cls-5" cx="13.1" cy="4" r=".3"/>
+    <circle class="cls-4" cx="13.3" cy="4.8" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="4.8" cy="12.1" r="3.3"/>
+    <circle class="cls-2" cx="2.9" cy="12.7" r=".5"/>
+    <circle class="cls-4" cx="6.9" cy="10.9" r=".6"/>
+    <circle class="cls-2" cx="3.6" cy="11.1" r=".2"/>
+    <circle class="cls-13" cx="4.5" cy="14.1" r=".8"/>
+    <circle class="cls-5" cx="6" cy="11.7" r=".2"/>
+    <circle class="cls-5" cx="6.6" cy="13.1" r=".5"/>
+    <circle class="cls-5" cx="2.5" cy="11.4" r=".3"/>
+    <circle class="cls-4" cx="2.9" cy="10.7" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="5.9" cy="5.9" r="3.3"/>
+    <circle class="cls-2" cx="5" cy="4" r=".5"/>
+    <circle class="cls-4" cx="7.2" cy="7.9" r=".6"/>
+    <circle class="cls-2" cx="6.8" cy="4.5" r=".2"/>
+    <circle class="cls-1" cx="3.8" cy="5.7" r=".8"/>
+    <circle class="cls-5" cx="6.3" cy="7" r=".2"/>
+    <circle class="cls-5" cx="5.1" cy="7.7" r=".5"/>
+    <circle class="cls-5" cx="6.3" cy="3.5" r=".3"/>
+    <circle class="cls-4" cx="7.1" cy="3.8" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="17.2" cy="14.1" r="3.3"/>
+    <circle class="cls-2" cx="19.1" cy="13.3" r=".5"/>
+    <circle class="cls-4" cx="17.5" cy="15.9" r=".6"/>
+    <circle class="cls-2" cx="18.6" cy="15" r=".2"/>
+    <circle class="cls-1" cx="17.5" cy="12" r=".8"/>
+    <circle class="cls-7" cx="16.1" cy="14.5" r=".2"/>
+    <circle class="cls-5" cx="15.4" cy="13.2" r=".5"/>
+    <circle class="cls-5" cx="19.6" cy="14.6" r=".3"/>
+    <circle class="cls-4" cx="19.2" cy="15.3" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="9.8" cy="13.9" r="3.3"/>
+    <circle class="cls-2" cx="7.8" cy="13.2" r=".5"/>
+    <circle class="cls-12" cx="12.1" cy="14.2" r=".6"/>
+    <circle class="cls-2" cx="9.3" cy="12.3" r=".2"/>
+    <circle class="cls-13" cx="8.2" cy="15.3" r=".8"/>
+    <circle class="cls-7" cx="10.9" cy="14.3" r=".2"/>
+    <circle class="cls-7" cx="10.6" cy="15.7" r=".5"/>
+    <circle class="cls-5" cx="8.3" cy="11.9" r=".3"/>
+    <circle class="cls-4" cx="9" cy="11.6" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="13.7" cy="9.6" r="3.3"/>
+    <circle class="cls-2" cx="14.2" cy="7.6" r=".5"/>
+    <circle class="cls-4" cx="13.6" cy="12" r=".6"/>
+    <circle class="cls-2" cx="15.3" cy="9.1" r=".2"/>
+    <circle class="cls-1" cx="12.2" cy="8.3" r=".8"/>
+    <circle class="cls-5" cx="13.4" cy="10.8" r=".2"/>
+    <circle class="cls-5" cx="12" cy="10.6" r=".5"/>
+    <circle class="cls-5" cx="15.5" cy="8" r=".3"/>
+    <circle class="cls-4" cx="15.9" cy="8.7" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="22.1" cy="10" r="3.3"/>
+    <circle class="cls-10" cx="23.6" cy="11.5" r=".5"/>
+    <circle class="cls-4" cx="20.5" cy="11" r=".6"/>
+    <circle class="cls-10" cx="21.8" cy="11.6" r=".2"/>
+    <circle class="cls-1" cx="24.1" cy="9.4" r=".8"/>
+    <circle class="cls-5" cx="21.3" cy="9.1" r=".2"/>
+    <circle class="cls-5" cx="22.2" cy="8" r=".5"/>
+    <circle class="cls-7" cx="22.6" cy="12.4" r=".3"/>
+    <circle class="cls-12" cx="21.8" cy="12.3" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="17.7" cy="5.3" r="3.3"/>
+    <circle class="cls-2" cx="17.5" cy="3.2" r=".4"/>
+    <circle class="cls-4" cx="18.3" cy="7.6" r=".6"/>
+    <circle class="cls-2" cx="18.8" cy="4.2" r=".2"/>
+    <circle class="cls-1" cx="15.9" cy="4.4" r=".8"/>
+    <circle class="cls-5" cx="17.8" cy="6.5" r=".2"/>
+    <circle class="cls-5" cx="16.3" cy="6.7" r=".5"/>
+    <circle class="cls-5" cx="18.6" cy="3.2" r=".3"/>
+    <circle class="cls-4" cx="19.5" cy="3.8" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="21.9" cy="4.8" r="3.3"/>
+    <circle class="cls-2" cx="23.9" cy="4.4" r=".5"/>
+    <circle class="cls-4" cx="19.6" cy="5.6" r=".6"/>
+    <circle class="cls-2" cx="23" cy="6" r=".2"/>
+    <circle class="cls-1" cx="22.6" cy="2.8" r=".8"/>
+    <circle class="cls-5" cx="20.7" cy="4.9" r=".2"/>
+    <circle class="cls-5" cx="20.3" cy="3.5" r=".5"/>
+    <circle class="cls-5" cx="24.1" cy="5.8" r=".3"/>
+    <circle class="cls-4" cx="23.6" cy="6.4" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="22.9" cy="13.3" r="3.3"/>
+    <circle class="cls-2" cx="21.4" cy="14.7" r=".5"/>
+    <circle class="cls-4" cx="21.9" cy="11.7" r=".6"/>
+    <circle class="cls-2" cx="21.2" cy="12.9" r=".2"/>
+    <circle class="cls-1" cx="23.4" cy="15.2" r=".8"/>
+    <circle class="cls-5" cx="23.8" cy="12.4" r=".2"/>
+    <circle class="cls-7" cx="24.9" cy="13.4" r=".5"/>
+    <circle class="cls-5" cx="20.5" cy="13.7" r=".3"/>
+    <circle class="cls-4" cx="20.5" cy="12.9" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="27.8" cy="7.2" r="3.3"/>
+    <circle class="cls-2" cx="29.9" cy="7.1" r=".5"/>
+    <circle class="cls-4" cx="25.5" cy="7.8" r=".6"/>
+    <circle class="cls-2" cx="28.8" cy="8.5" r=".2"/>
+    <circle class="cls-1" cx="28.7" cy="5.4" r=".8"/>
+    <circle class="cls-5" cx="26.6" cy="7.3" r=".2"/>
+    <circle class="cls-5" cx="26.4" cy="5.8" r=".5"/>
+    <circle class="cls-5" cx="29.9" cy="8.5" r=".3"/>
+    <circle class="cls-4" cx="29.4" cy="9" r=".3"/>
+  </g>
+  <g>
+    <circle class="cls-6" cx="27.4" cy="13.5" r="3.3"/>
+    <circle class="cls-2" cx="28.6" cy="15.2" r=".5"/>
+    <circle class="cls-4" cx="25.6" cy="11.9" r=".6"/>
+    <circle class="cls-2" cx="26.8" cy="15" r=".2"/>
+    <circle class="cls-1" cx="29.4" cy="13.3" r=".8"/>
+    <circle class="cls-5" cx="26.7" cy="12.5" r=".2"/>
+    <circle class="cls-5" cx="27.8" cy="11.6" r=".5"/>
+    <circle class="cls-5" cx="27.4" cy="15.9" r=".3"/>
+    <circle class="cls-4" cx="26.7" cy="15.8" r=".3"/>
+  </g>
+  <rect class="cls-8" x="2.8" y="13" width="13.9" height="3.2" rx="1.4" ry="1.4"/>
+  <g class="cls-3">
+    <path class="cls-11" d="M4.7,15.8v-1.6h.2c0,0,0,0,.2,0s.1,0,.2,0,.1,0,.2,0c0,0,.1,0,.2.1s0,.1.1.2c0,0,0,.1,0,.2s0,.2,0,.2,0,.1-.1.2c0,0-.1,0-.2.1,0,0-.1,0-.2,0s-.1,0-.2,0c0,0-.1,0-.1-.1v.6h-.2ZM5.3,14.4s0,0-.1,0,0,0-.1,0c0,0,0,0,0,.1,0,0,0,.1,0,.2s0,.1,0,.2c0,0,0,0,0,.1,0,0,0,0,.1,0,0,0,0,0,.1,0s0,0,.1,0c0,0,0,0,.1,0,0,0,0,0,0-.1,0,0,0,0,0-.1s0-.1,0-.1c0,0,0,0,0-.1,0,0,0,0-.1,0,0,0,0,0-.1,0Z"/>
+    <path class="cls-11" d="M6.5,15.3c0,0-.2,0-.2,0,0,0-.1,0-.2-.1,0,0,0-.1-.1-.2,0,0,0-.1,0-.2s0-.2,0-.2c0,0,0-.1.1-.2s.1,0,.2-.1c0,0,.1,0,.2,0s.1,0,.2,0c0,0,.1,0,.2.1,0,0,0,.1.1.2,0,0,0,.2,0,.3h-.8s0,0,0,.1c0,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,0,.1,0s.1,0,.2,0,0,0,.1,0h.1c0,.2-.1.2-.2.3,0,0-.2,0-.3,0ZM6.5,14.4s0,0-.1,0c0,0,0,0,0,0s0,0,0,0c0,0,0,0,0,.1h.6s0,0,0-.1c0,0,0,0,0,0s0,0,0,0c0,0,0,0-.1,0Z"/>
+    <path class="cls-11" d="M7.2,15.8v-1.6h.2c0,0,0,0,.2,0s.1,0,.2,0,.1,0,.2,0c0,0,.1,0,.2.1s0,.1.1.2c0,0,0,.1,0,.2s0,.2,0,.2,0,.1-.1.2c0,0-.1,0-.2.1,0,0-.1,0-.2,0s-.1,0-.2,0c0,0-.1,0-.1-.1v.6h-.2ZM7.8,14.4s0,0-.1,0,0,0-.1,0c0,0,0,0,0,.1,0,0,0,.1,0,.2s0,.1,0,.2c0,0,0,0,0,.1,0,0,0,0,.1,0,0,0,0,0,.1,0s0,0,.1,0c0,0,0,0,.1,0,0,0,0,0,0-.1,0,0,0,0,0-.1s0-.1,0-.1c0,0,0,0,0-.1,0,0,0,0-.1,0,0,0,0,0-.1,0Z"/>
+    <path class="cls-11" d="M8.5,15.8v-1.6h.2c0,0,0,0,.2,0s.1,0,.2,0,.1,0,.2,0c0,0,.1,0,.2.1s0,.1.1.2c0,0,0,.1,0,.2s0,.2,0,.2,0,.1-.1.2c0,0-.1,0-.2.1,0,0-.1,0-.2,0s-.1,0-.2,0c0,0-.1,0-.1-.1v.6h-.2ZM9.1,14.4s0,0-.1,0,0,0-.1,0c0,0,0,0,0,.1,0,0,0,.1,0,.2s0,.1,0,.2c0,0,0,0,0,.1,0,0,0,0,.1,0,0,0,0,0,.1,0s0,0,.1,0c0,0,0,0,.1,0,0,0,0,0,0-.1,0,0,0,0,0-.1s0-.1,0-.1c0,0,0,0,0-.1,0,0,0,0-.1,0,0,0,0,0-.1,0Z"/>
+    <path class="cls-11" d="M10.4,15.3c0,0-.2,0-.2,0,0,0-.1,0-.2-.1,0,0,0-.1-.1-.2,0,0,0-.1,0-.2s0-.2,0-.2c0,0,0-.1.1-.2s.1,0,.2-.1c0,0,.1,0,.2,0s.1,0,.2,0c0,0,.1,0,.2.1,0,0,0,.1.1.2,0,0,0,.2,0,.3h-.8s0,0,0,.1c0,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,0,.1,0s.1,0,.2,0,0,0,.1,0h.1c0,.2-.1.2-.2.3,0,0-.2,0-.3,0ZM10.3,14.4s0,0-.1,0c0,0,0,0,0,0s0,0,0,0c0,0,0,0,0,.1h.6s0,0,0-.1c0,0,0,0,0,0s0,0,0,0c0,0,0,0-.1,0Z"/>
+    <path class="cls-11" d="M11.7,14.4s0,0,0,0,0,0,0,0c0,0,0,0-.1,0,0,0,0,0,0,0,0,0,0,0,0,0s0,0,0,.1v.7h-.2v-1.1h.2c0,0,0,0,.1,0,0,0,.1,0,.2,0s.1,0,.2,0v.2c0,0,0,0,0,0Z"/>
+    <path class="cls-11" d="M12.4,15.3c0,0-.1,0-.2,0,0,0-.1,0-.2-.1,0,0,0-.1-.1-.2s0-.1,0-.2,0-.2,0-.2c0,0,0-.1.1-.2,0,0,.1,0,.2-.1,0,0,.1,0,.2,0s.1,0,.2,0c0,0,.1,0,.2.1s0,.1.1.2c0,0,0,.1,0,.2s0,.2,0,.2,0,.1-.1.2c0,0-.1,0-.2.1,0,0-.1,0-.2,0ZM12.4,14.4s0,0-.1,0c0,0,0,0-.1,0,0,0,0,0,0,.1,0,0,0,0,0,.1s0,.1,0,.1c0,0,0,0,0,.1,0,0,0,0,.1,0s0,0,.1,0,0,0,.1,0c0,0,0,0,.1,0,0,0,0,0,0-.1s0,0,0-.1,0-.1,0-.1,0,0,0-.1,0,0-.1,0c0,0,0,0-.1,0Z"/>
+    <path class="cls-11" d="M13.4,15.3h-.2v-1.1h.2c0,0,0,0,.1,0,0,0,.1,0,.2,0s0,0,.1,0c0,0,0,0,.1,0,0,0,0,0,.1.1s0,.1,0,.2v.7h-.2v-.7s0,0,0-.1c0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0s0,0,0,0c0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1v.7Z"/>
+    <path class="cls-11" d="M14.5,14s0,0-.1,0c0,0,0,0,0-.1s0,0,0-.1c0,0,0,0,.1,0s0,0,.1,0,0,0,0,.1,0,0,0,.1,0,0-.1,0ZM14.6,15.3h-.2v-1.1h.2v1.1Z"/>
+  </g>
+</svg>
